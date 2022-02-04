@@ -4,8 +4,8 @@ This is the commit of exam registration system.
 Project Skills Introduction:   
 --
 The exam registration system is developed by Java and JavaScript.   
-For backend, I used Spring, Spring Boot, Spring Data JPA to develop(25 RestFul APIs).    
-For frontend, I used Vue and Element-UI to develop(14 Pages).  
+For backend **newstudent**, I used Spring, Spring Boot, Spring Data JPA to develop(25 RestFul APIs).    
+For frontend **TestSystem**, I used Vue and Element-UI to develop(14 Pages).  
     
 Project functions Introduction:   
 --
