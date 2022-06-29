@@ -6,7 +6,7 @@ Project Skills Introduction:
 The exam registration system is developed by Java and JavaScript.   
 For backend **newstudent**, I used Spring, Spring Boot, Spring Data JPA to develop(25 RestFul APIs).      
 https://github.com/ShuaiZhao418/Exam_Register_System/tree/main/TestsSystem/src/main/java/com/example/demo.    
-For frontend **TestSystem**, I used Vue and Element-UI to develop(14 Pages).  
+For frontend **TestSystem**, I used React.  
 https://github.com/ShuaiZhao418/Exam_Register_System/tree/main/newstudent/src
 
 
